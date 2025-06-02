@@ -1,0 +1,27 @@
+
+    Usuario:
+    fagcomco
+    Contraseña:
+    96embbY7Z5
+    URL del Panel de Control (cPanel):
+    http://162.241.2.109/cpanel
+    Una vez que su dominio se propaga, puede utilizar:
+    http://www.fagcom.com/cpanel
+
+ 
+
+Configuración de DNS:
+
+Temporalmente se puede utilizar una de las direcciones para gestionar su sitio:
+
+    Nombre del Servidor:
+    mx60
+    IP del Servidor:
+    162.241.2.109
+    Nameserver 1:
+    ns60.hostgator.mx (162.241.2.110)
+    Nameserver 2:
+    ns61.hostgator.mx (162.241.2.111)
+	contraseña mysql  FGRIK4A7+w=r
+	usuario mysql	 fagcomco_test1
+	nombre de la base	fagcomco_sime

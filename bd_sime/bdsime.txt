@@ -1,0 +1,5 @@
+datos base de datos sime
+
+contraseña: 7Vp07MnGwMOX
+nombre: u839029504_admin
+usuario: u839029504_sime
